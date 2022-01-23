@@ -7,3 +7,10 @@
 #   difference
 
 array = [12, 23, 41, 73, 19, 6]
+
+max = array.max
+min = array.min
+
+p min
+p max
+p max - min
